@@ -1,0 +1,41 @@
+🎯 Goal: Design and generate the homepage for Yunara AI, a modern full-stack AI services & freelance delivery agency. The website should have a Web3-inspired aesthetic — dark theme, gradients, glassmorphism, neon accents, smooth scroll effects — but focus on AI/automation services, not crypto.
+
+👨‍💻 Prompt:
+"Create a modern, Web3-inspired homepage for a full-stack AI agency called 'Yunara AI'. Use a dark theme with bold typography, smooth animations, gradient buttons, and futuristic UI. The homepage should include:
+
+Hero Section with brand name, tagline, short pitch, and primary CTA buttons like “Start Your Project” and “See How We Work.”
+
+Who We Are Section — Explain Yunara AI as an AI automation and freelance delivery agency. Example copy:
+
+Yunara AI is a full-stack AI consulting and delivery agency. We create intelligent automation pipelines, AI agents, and scalable SaaS tools for businesses worldwide. We also match clients with pre-vetted AI freelancers to deliver projects on demand.
+
+Services Section with three main offerings:
+
+🤖 AI Automation (e.g., GPT agents, chatbot workflows)
+
+🛠️ SaaS Development (custom tool development, integrations)
+
+🎯 AI Talent on Demand (connect with vetted AI freelancers quickly)
+
+Testimonials or “Why Us” Section (Optional)
+
+Add 2–3 short testimonials or key value propositions like “Delivery within 48 hours”, “Top-tier vetted engineers”, or “Custom tools, not templates.”
+
+Call-to-Action Section at the bottom:
+
+"Ready to build the future? Let’s supercharge your business with AI automation and top-tier talent."
+CTA button: Book Free Consultation
+
+Footer — Include logo, links to About, Services, Contact, and social icons (LinkedIn, Twitter, GitHub).
+
+Design Guidelines:
+
+Web3 aesthetic — dark background, neon highlights, futuristic gradients, or subtle glow effects
+
+Responsive layout (mobile + desktop)
+
+Use TailwindCSS or Framer Motion if in code
+
+Font suggestion: Inter, Sora, or Space Grotesk
+
+Keep UX conversion focused — clean buttons, clear hierarchy

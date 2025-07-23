@@ -1,0 +1,93 @@
+✅ 🔥 Final Website Implementation Prompt for Yunara AI
+🎯 Homepage Hero Section Update
+🌐 Headline (Main Tagline):
+Next-Gen AI Automations. Scalable Intelligence. Real Impact.
+⚡ Power your business with tailored AI agents, automation frameworks, and custom SaaS platforms — all built for scale.
+
+🧠 Subheadline (Supportive Intro):
+At Yunara AI, we’re more than just an agency — we’re your AI innovation partner.
+From smart agent systems to workflow automation, Web3-ready SaaS tools, and on-demand AI talent,
+we deliver tech that evolves with your vision.
+
+💡 💻 Visual Design Instructions (Hero Section)
+🔹 Left Side (Text Section):
+Clean layout for the headline and subheadline
+
+Use:
+
+Gradient text
+
+Animated underline
+
+Glow effects or particle motion
+
+Subtle Web3-style transitions or floating elements (e.g., lines, sparkles)
+
+🔹 Right Side (Visual Section):
+Image of robot + human collaboration (from uploaded assets)
+
+Optional:
+
+Short looping animation
+
+Neon interface or futuristic dashboard UI
+
+Overlay with:
+
+Dynamic tech lines
+
+Rotating mesh globe
+
+3D AI nodes or circuit visuals
+
+🔹 Hero Background:
+Dark-to-light gradient
+
+Optionally animated background
+
+Include network mesh, glowing lines, or cyberpunk-style digital texture
+
+🔹 Call-to-Action Buttons:
+[⚙️ View Services]
+
+[🚀 Book a Free Strategy Call]
+
+Include hover micro-animations (pulse, gradient glow, etc.)
+
+🧾 “Our Work” / “Client Success Stories” Section
+🔹 Create:
+A dedicated page in the top navigation titled:
+
+“Our Work” or “Client Success Stories”
+
+🔹 On Homepage – Add a Visual Section Featuring:
+✅ Client Logos (placeholders initially)
+
+✅ Case Study Cards with:
+
+Project name
+
+Problem solved
+
+Results achieved
+
+Technologies used
+
+✅ Short Testimonials (1–2 lines with client name/title/domain)
+
+✅ Image carousels or demo GIFs for visual engagement
+
+📌 Bonus Feature:
+Add filter tabs for categories like:
+
+“SaaS Projects”
+
+“Agent Deployment”
+
+“Workflow Automation”
+
+🖼️ Branding Note
+Please use the uploaded Yunara AI logo across all pages
+
+Apply the logo to the favicon
+

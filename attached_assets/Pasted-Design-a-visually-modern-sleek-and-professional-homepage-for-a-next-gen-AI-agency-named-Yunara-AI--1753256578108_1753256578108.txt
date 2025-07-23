@@ -1,0 +1,57 @@
+Design a visually modern, sleek, and professional homepage for a next-gen AI agency named Yunara AI. The website should use a Web3-style aesthetic (dark background, neon glow highlights, smooth animations, futuristic fonts).
+
+Brand Name: Yunara AI
+Tagline: We Build Intelligent AI Automations
+
+The homepage must include the following structured sections, styled with glassmorphism, soft shadows, animated buttons, and high-contrast neon-accented UI:
+
+🌐 Hero Section:
+Large headline: "We Build Intelligent AI Automations"
+
+Subheadline: "Power your business with tailored AI agents, automation tools, and scalable SaaS infrastructure — all delivered by top-tier talent."
+
+Two CTA buttons:
+
+⚡ Start Your Project
+
+💡 See How We Work
+
+Background: Blurred glowing abstract shapes or particle animation.
+
+🧠 Who We Are Section:
+Heading: Who We Are
+
+Description: Yunara AI is a full-stack AI consulting and delivery agency. We specialize in creating intelligent automation solutions, building SaaS tools, and matching businesses with top AI freelancers for rapid, high-quality execution.
+
+💼 Services Cards (in a 3-column grid):
+Each card should have hover effects and icon emojis:
+
+🤖 AI Automation
+Custom GPT agents, AI workflows, and task automation tailored to your business.
+
+🛠️ SaaS Development
+Build and launch intelligent, user-focused SaaS platforms — fast.
+
+🎯 AI Talent on Demand
+Need fast execution? We match you with vetted AI engineers & freelancers.
+
+🚀 Final Call to Action:
+Heading: Ready to Build the Future?
+
+Subtext: Let’s supercharge your business with intelligent automation and scalable AI solutions.
+
+CTA Button: 🚀 Book a Free Consultation
+
+✨ Add smooth scroll animations, hover glow transitions, responsive layout, and crisp white/yellow typography on a dark navy or gradient black-blue background.
+
+✨ Bonus: Consider including subtle Web3-like visuals such as:
+
+Blurred neon orbs in the background
+
+Geometric gridlines or mesh overlays
+
+Scroll-triggered fade-ins
+
+Interactive cursor or subtle parallax effects
+
+Output the full HTML/JSX structure in React/Next.js-compatible code, using Tailwind CSS and shadcn/ui components if needed.
